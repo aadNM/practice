@@ -1,0 +1,22 @@
+<p>first-component works!</p>
+<h1 [ngClass]="isGreen ? 'text-green': 'text-red'">{{text | uppercase}}</h1>
+
+<h4>{{ numbers }}</h4>
+
+<ul *ngIf="numbers.length > 0"> 
+    <li *ngFor= "let number of numbers">{{ number }}</li>
+</ul>
+
+<p *ngIf="numbers.length <= 0">No Data</p>
+
+<p>{{cash}}<br>{{cash | currency: 'XOF'}}</p>
+
+<p>{{date}} <br> {{date | date}}<br>
+{{date | date: 'shortDate'}}</p>
+
+<input type="text" name="" id="" [value]="title" [disabled]="isDisabled" (keyup.enter)="title=$event.target.value">
+<button (click)="onClick()">send</button>
+<h2>{{ title }}</h2>
+
+<input type="text" [(ngModel)]="title2">
+<h3>{{ title2 }}</h3>

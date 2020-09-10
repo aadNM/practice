@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m_",
+				"m_size"
+			],
+			[
+				"se",
+				"secondintoLast"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"rem",
+				"removeLastDigit"
+			],
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"f",
+				"fizzbuzz"
+			],
+			[
+				"ar",
+				"arrOffset"
+			],
+			[
+				"si",
+				"SIZE"
+			],
+			[
+				"t",
+				"temp"
+			],
+			[
+				"m",
+				"m_back"
+			],
+			[
+				"fron",
+				"frontElephant"
+			],
+			[
+				"I",
+				"ItemType"
+			],
+			[
+				"dan",
+				"dangTest"
+			],
+			[
+				"S",
+				"StackOfInts"
+			],
+			[
+				"nu",
+				"num2"
+			],
+			[
+				"tem",
+				"temp2"
+			],
+			[
+				"ge",
+				"getNext"
+			],
+			[
+				"te",
+				"temp2"
+			],
+			[
+				"temp",
+				"temp1"
+			],
+			[
+				"s",
+				"stack"
+			],
+			[
+				"pri",
+				"printAllNodes"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"n",
+				"next"
+			],
+			[
+				"en",
+				"entry"
+			],
+			[
+				"N",
+				"NODE_H"
+			],
+			[
+				"g_",
+				"g_MaxPlayers"
+			],
+			[
+				"g",
+				"g_PubRating"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/azizdiallo/Desktop/Angular/ang-first-app/src/app/app.component.ts",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/School/Fall2020/EECS388-Embeded-Syst/388-hw5",
+		"/Users/azizdiallo/Desktop/text.txt",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/School/Fall2020/EECS388-Embeded-Syst/388-HW4",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/School/Fall2020/EECS448-Soft-Engr/eecs448-lab02/linkedList/LinkedList.hpp",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/School/Fall2020/EECS388/388-HW2.txt",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/School/Fall2020/EECS368/368-W1-day3.js",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/School/Fall2020/EECS368/368-W1-day3.html",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/School/Fall2020/EECS510/510-W1-day1",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/sub/Hello",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/work/Bookmark_and_Cheat_Sheet/Cheat Sheet.txt",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/sub/CSS-filter-image-property-so-cool",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/School/Fall2020/EECS388/388-HW1.txt",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/work/login/login300.txt",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/sub/bb-2way",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/work/procurement/Accordions.css",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/work/login/login299.txt",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/work/login/login259.txt",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/united.txt",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/work/login/login225.txt",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/work/login/cpanel-pw.txt",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/work/login/login144.txt",
+		"/Users/azizdiallo/Downloads/lec3_strings_algos.py",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/sub/untitled.css",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/sub/phoneNumberFormat.js",
+		"/Users/azizdiallo/Desktop/PythonClass/Module1/demo1.py",
+		"/var/folders/6j/ch7qqy357mg5s5mxwvs5rzcw0000gn/T/kite_tutorial.py",
+		"/Users/azizdiallo/Downloads/lec2_branch_loops.py",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/work/Bookmark_and_Cheat_Sheet/bookmarks_3_26_20.html",
+		"/Users/azizdiallo/Desktop/EECS268/ClassWork/Online1/main.cpp",
+		"/Users/azizdiallo/Desktop/main.cpp",
+		"/Users/azizdiallo/Desktop/Tani/main.cpp",
+		"/Users/azizdiallo/Desktop/EECS268/ClassWork/Week7/main.cpp",
+		"/Users/azizdiallo/Desktop/ProjectBlinds/aws-iot-device-sdk-embedded-c/samples/linux/subscribe_publish_sample/subscribe_publish_sample.c",
+		"/Users/azizdiallo/Desktop/ProjectBlinds/aws-iot-device-sdk-embedded-c/samples/linux/subscribe_publish_sample/aws_iot_config.h",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/School/Spring2020/EECS268/output.txt",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/Hack KU/curl",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/Hack KU/arn:aws:l",
+		"/Users/azizdiallo/Desktop/ProjectBlinds/aws-iot-device-sdk-embedded-c/samples/linux/subscribe_publish_sample/Makefile",
+		"/Users/azizdiallo/Desktop/ProjectBlinds/aws-iot-device-sdk-embedded-c/certs/root-CA.crt",
+		"/Users/azizdiallo/Desktop/EECS268/Diallo-a014d430-Lab04/ShapeContainer.h",
+		"/Users/azizdiallo/Desktop/EECS268/Diallo-a014d430-Lab04/Shape.h",
+		"/Users/azizdiallo/Desktop/EECS268/Diallo-a014d430-Lab04/Executive.h",
+		"/Users/azizdiallo/Desktop/EECS268/Diallo-a014d430-Lab04/Rectangle.h",
+		"/Users/azizdiallo/Desktop/EECS268/Diallo-a014d430-Lab04/Circle.h",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/School/Spring2020/EECS268/ClassWork/week3/stack.h",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/School/Spring2020/EECS268/ClassWork/week2/Node.cpp",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/School/Spring2020/EECS268/ClassWork/week2/Node.h",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/School/Spring2020/EECS268/ClassWork/week2/main.cpp",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/School/Spring2020/EECS268/Diallo-a014d430-Lab-01/input.txt",
+		"/Users/azizdiallo/OneDrive - The University of Kansas/School/Spring2020/EECS268/Diallo-a014d430-Lab-01/Design.h",
+		"/Users/azizdiallo/Documents/startup"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.module.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
